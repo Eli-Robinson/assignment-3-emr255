@@ -7,3 +7,9 @@ navbar:
       href: Eli.html
     - text: "Ken"
       href: ken.html  
+output:
+  html_document:
+    theme: sandstone
+    highlight: textmate
+    toc: true 
+    toc_float: true 
